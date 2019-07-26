@@ -14,3 +14,7 @@
         2.使用命令 git commit -m <message>,完成
 
 */
+
+export default  {
+    lal :'333'
+}
