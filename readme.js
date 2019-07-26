@@ -1,4 +1,5 @@
 
 export default  {
-   git:'branch'
+   git:'branch',
+   git2:'barn2'
 }
