@@ -1,3 +1,4 @@
 export default {
-    two:'1'
+    two:'1',
+    three:'2'
 }
